@@ -1,0 +1,50 @@
+li:hover {
+    /* background-color: #7bbfbf; */
+    transform: scale(1.1);
+    border: #d8fcfc solid 1px;
+    height: 45px;
+  }
+  
+  .nav-item:hover {
+    transform: scale(1.1);
+  }
+  
+  .navbar {
+    height: 50px;
+    /* background-color: #81c9c9; */
+  }
+  header {
+    height: 400px;
+    /*background-color: #E97451;*/
+    
+    background-repeat: no-repeat;
+    background-size: 1350px 400px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
+  body {
+      background-color: #9dacae;
+      /* background-image: url("/images/laptop.png"); */
+      font-family: cursive;
+  }
+
+ /* .icons {
+  margin-left: 100px;
+ } */
+
+/* footer {
+    /* border: white solid 1px; */
+    /* background-color: #81c9c9 */
+    /*position: fixed;
+    top: 509px;
+    left: -0.5px;
+    right: -0.5px;
+    
+} */
+
+footer .nav-item {
+  padding-left: 40px;
+}
